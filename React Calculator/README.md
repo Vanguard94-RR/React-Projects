@@ -1,4 +1,6 @@
 Calculator
+
+Bayer Intern Training React L2
 ---
 <img src="FrontSample.jpg" width="60%" height="60%" />
 
